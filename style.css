@@ -21,7 +21,7 @@
     border-radius: 20px;
     height: 50px;
 
-    width: 250px;
+    width: 100%;
 
 color: #FFFFFF;
 
@@ -165,7 +165,7 @@ color: #FFFFFF;
     border-radius: 20px;
     height: 40px;
 
-    width: 250px;
+    width: 100%;
 }
 .question1-2right{
     max-width: 400px;
